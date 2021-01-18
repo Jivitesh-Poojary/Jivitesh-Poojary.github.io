@@ -14,7 +14,7 @@ I like to work of complex data analysis processes, understand machine learning a
 Having worked in different roles as a Data Scientist, Machine Learning Engineer, Data Engineer and a Data Analyst, I can anticipate challenges and estimate effort required for a successful data science implementation.
 </p>
 
-<object data="https://jivitesh-poojary.github.io/docs/Jivitesh-Poojary-Resume.pdf" type="application/pdf" width="750px" height="110px">
+<object data="https://jivitesh-poojary.github.io/docs/Jivitesh-Poojary-Resume.pdf" type="application/pdf" width="750px" height="1100px">
     <embed src="https://jivitesh-poojary.github.io/docs/Jivitesh-Poojary-Resume.pdf" type="application/pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
